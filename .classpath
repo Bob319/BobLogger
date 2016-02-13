@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8"/>
+	<classpathentry kind="lib" path="lib/NetworkTables.jar"/>
+	<classpathentry kind="lib" path="lib/WPILib.jar"/>
+	<classpathentry kind="lib" path="lib/log4j-1.2.17.jar"/>
+	<classpathentry kind="lib" path="lib/slf4j-api-1.7.16.jar"/>
+	<classpathentry kind="lib" path="lib/slf4j-log4j12-1.7.16.jar"/>
+	<classpathentry kind="lib" path="lib/navx_frc.jar"/>
+	<classpathentry kind="lib" path="lib/jackson-annotations-2.7.1.jar"/>
+	<classpathentry kind="lib" path="lib/jackson-core-2.7.1.jar"/>
+	<classpathentry kind="lib" path="lib/jackson-databind-2.7.1-1.jar"/>
+	<classpathentry kind="lib" path="lib/jetty-annotations-9.3.7.v20160115.jar"/>
+	<classpathentry kind="lib" path="lib/jetty-http-9.3.7.v20160115.jar"/>
+	<classpathentry kind="lib" path="lib/jetty-io-9.3.7.v20160115.jar"/>
+	<classpathentry kind="lib" path="lib/jetty-security-9.3.7.v20160115.jar"/>
+	<classpathentry kind="lib" path="lib/jetty-server-9.3.7.v20160115.jar"/>
+	<classpathentry kind="lib" path="lib/jetty-servlet-9.3.7.v20160115.jar"/>
+	<classpathentry kind="lib" path="lib/jetty-servlets-9.3.7.v20160115.jar"/>
+	<classpathentry kind="lib" path="lib/jetty-util-9.3.7.v20160115.jar"/>
+	<classpathentry kind="lib" path="lib/servlet-api-3.1.jar"/>
+	<classpathentry kind="lib" path="lib/websocket-api-9.3.7.v20160115.jar"/>
+	<classpathentry kind="lib" path="lib/websocket-client-9.3.7.v20160115.jar"/>
+	<classpathentry kind="lib" path="lib/websocket-common-9.3.7.v20160115.jar"/>
+	<classpathentry kind="lib" path="lib/websocket-server-9.3.7.v20160115.jar"/>
+	<classpathentry kind="lib" path="lib/websocket-servlet-9.3.7.v20160115.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
